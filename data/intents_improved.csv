@@ -1,0 +1,352 @@
+text,intent
+can you explain photosynthesis,ask_question
+define data science,ask_question
+explain artificial intelligence,ask_question
+explain machine learning,ask_question
+explain the meaning of democracy,ask_question
+explain the water cycle,ask_question
+how are mountains formed,ask_question
+how do computers process data,ask_question
+how does Wi-Fi work,ask_question
+how does gravity work,ask_question
+how does the internet work,ask_question
+tell me about deep learning,ask_question
+tell me about the solar system,ask_question
+what causes rain,ask_question
+what is Python programming,ask_question
+what is a neural network,ask_question
+what is an algorithm,ask_question
+what is artificial intelligence,ask_question
+what is climate change,ask_question
+what is cloud computing,ask_question
+what is cybersecurity,ask_question
+what is deep learning,ask_question
+what is machine learning,ask_question
+when was the internet created,ask_question
+where is the Eiffel Tower,ask_question
+who invented the computer,ask_question
+who wrote Romeo and Juliet,ask_question
+why do we sleep,ask_question
+why is exercise important,ask_question
+why is the sky blue,ask_question
+I'll talk to you later,exit
+I'm done,exit
+I'm finished,exit
+I'm leaving now,exit
+bye,exit
+catch you later,exit
+close the assistant,exit
+close this chat,exit
+end the session,exit
+end this conversation,exit
+exit the app,exit
+"good night, goodbye",exit
+goodbye,exit
+have a good day,exit
+have a nice evening,exit
+no more questions,exit
+quit,exit
+see you later,exit
+see you soon,exit
+shut down the assistant,exit
+stop listening,exit
+stop now,exit
+stop the assistant,exit
+talk to you later,exit
+"thanks, bye",exit
+that's all for now,exit
+that's enough for today,exit
+turn yourself off,exit
+we are done,exit
+you can stop now,exit
+I'm back,greeting
+are you available,greeting
+are you there,greeting
+good afternoon,greeting
+good day,greeting
+good evening,greeting
+good morning,greeting
+it's nice to see you,greeting
+good to see you,greeting
+greetings,greeting
+hello,greeting
+hello Neurova,greeting
+hello again,greeting
+hello assistant,greeting
+hello there,greeting
+hey,greeting
+hey Neurova,greeting
+hey assistant,greeting
+hey there,greeting
+hi,greeting
+hi Neurova,greeting
+hi there,greeting
+hope you are doing well,greeting
+how are things,greeting
+how are you,greeting
+how is it going,greeting
+is anyone there,greeting
+let's get started,greeting
+nice to meet you,greeting
+what's up,greeting
+I don't know how to use this,help
+I need a little help,help
+I need help,help
+I need some assistance,help
+I need some guidance,help
+can you assist me,help
+can you guide me,help
+can you help me,help
+can you support me,help
+explain your functions,help
+give me a hand,help
+help me get started,help
+help me please,help
+help me with this problem,help
+how can you help me,help
+how do I get started,help
+how does this assistant work,help
+how may you assist me,help
+please guide me,help
+show me what you can do,help
+show me your features,help
+tell me about your features,help
+tell me how to use you,help
+what are your capabilities,help
+what can you do,help
+what can you help me with,help
+what commands do you understand,help
+what features do you have,help
+what services do you offer,help
+what tasks can you perform,help
+ jot this down,save_note
+I have something to note,save_note
+I need to write something down,save_note
+I want to save something,save_note
+add this to my notes,save_note
+can you store this thought,save_note
+don't let me forget this,save_note
+keep a record of this,save_note
+keep this in my notes,save_note
+keep this information,save_note
+make a note of this,save_note
+make a quick note,save_note
+note my idea,save_note
+note this down,save_note
+please remember this detail,save_note
+please save this note,save_note
+put this in my notes,save_note
+record this information,save_note
+remember that I have a meeting,save_note
+remember this for me,save_note
+remember what I am about to say,save_note
+save a note,save_note
+save my idea,save_note
+save my thought,save_note
+save the following note,save_note
+save this for later,save_note
+save this information,save_note
+store this note,save_note
+write this in my note,save_note
+write this down for me,save_note
+I have to remember to pay the bill,set_reminder
+I need a reminder,set_reminder
+I need to remember my class,set_reminder
+alert me before the meeting,set_reminder
+can you remind me to exercise,set_reminder
+create a reminder,set_reminder
+create a study reminder,set_reminder
+don't let me forget my appointment,set_reminder
+give me a reminder at 5 pm,set_reminder
+help me remember to take my book,set_reminder
+notify me tomorrow morning,set_reminder
+please notify me about my appointment,set_reminder
+please remind me,set_reminder
+remind me about my meeting,set_reminder
+remind me about the exam,set_reminder
+remind me in one hour,set_reminder
+remind me later,set_reminder
+remind me next Monday,set_reminder
+remind me this evening,set_reminder
+remind me to call my mother,set_reminder
+remind me to drink water,set_reminder
+remind me to study tomorrow,set_reminder
+remind me to submit my assignment,set_reminder
+remind me tomorrow,set_reminder
+schedule a notification for tomorrow,set_reminder
+schedule a reminder,set_reminder
+set a notification for 8 o'clock,set_reminder
+set a reminder,set_reminder
+set a reminder for me,set_reminder
+set an alarm to study,set_reminder
+I am grateful,thanks
+I appreciate your help,thanks
+I appreciate your support,thanks
+I appreciate your time,thanks
+I owe you one,thanks
+I really appreciate it,thanks
+I'm thankful for your help,thanks
+appreciated,thanks
+"cheers, thanks",thanks
+"excellent, thank you",thanks
+great help,thanks
+many thanks,thanks
+much appreciated,thanks
+thank you,thanks
+thank you for that,thanks
+thank you so much,thanks
+thanks Neurova,thanks
+thanks a bunch,thanks
+thanks a lot,thanks
+thanks for answering,thanks
+thanks for explaining,thanks
+thanks for the information,thanks
+thanks for your help,thanks
+thankyou,thanks
+that helps a lot,thanks
+that was really helpful,thanks
+that was useful,thanks
+that's helpful,thanks
+you are very helpful,thanks
+you helped me a lot,thanks
+can you explain how the human brain works,ask_question	
+what is the difference between AI and machine learning,ask_question	
+why do leaves change color,ask_question	
+how do airplanes stay in the air,ask_question	
+when does the sun rise,ask_question	
+where can I find the nearest planetarium,ask_question	
+who developed the Python language,ask_question	
+what are the main parts of a computer,ask_question	
+how is electricity generated,ask_question	
+why does the moon change shape,ask_question	
+can you tell me how photosynthesis happens,ask_question	
+what does cybersecurity mean	ask_question	
+how many planets are in our solar system,ask_question	
+what is the purpose of an operating system,ask_question	
+how do plants absorb water,ask_question	
+why is the ocean salty,ask_question	
+what is the meaning of renewable energy,ask_question	
+how does a neural network learn,ask_question	
+who discovered gravity,ask_question	
+can you describe the process of cloud computing,ask_question	
+I need to go now,exit	
+I'll be leaving now,exit	
+that's it for me,exit	
+I'm signing off,exit	
+goodbye for now,exit	
+see you next time,exit	
+I'm going offline,exit	
+let's end here,exit	
+please end our chat,exit	
+I'm ready to close this,exit	
+we can finish now,exit	
+I'll come back later,exit	
+end our session please,exit	
+I'm heading out,exit	
+stop this conversation please,exit	
+that's all I needed,exit	
+I have to leave, bye,exit	
+close our conversation,exit	
+I'll talk to you another time,exit	
+you may exit now,exit	
+hello there Neurova,greeting	
+hey, how are you doing,greeting	
+hi, nice to meet you,greeting	
+good morning assistant,greeting	
+a very good afternoon to you,greeting	
+hey, I'm here,greeting	
+hello, anyone available,greeting	
+hi there, how is your day,greeting	
+it's great to see you,greeting	
+how are you doing today,greeting	
+hey Neurova, what's new,greeting	
+hello again, assistant,greeting	
+hope your day is going well,greeting	
+good to be here,greeting	
+hi, let's chat,greeting	
+hey there, are you online,greeting	
+greetings, how are you,greeting	
+hello, I'm back again,greeting	
+what's happening today,greeting	
+nice seeing you again,greeting	
+I'm confused about how to use this assistant,help	
+could you show me how to begin,help	
+please explain how this works,help	
+I need assistance with the app,help	
+can you walk me through your features,help	
+where should I start,help	
+I don't understand what you can do,help	
+help me understand the available commands,help	
+text,intent
+could you give me some instructions,help
+I'm having trouble using Neurova,help
+please show me how to interact with you,help
+what kind of support can you provide,help
+can you explain how to send a message,help
+guide me through using this assistant,help
+I need guidance on this interface,help
+show me how to get assistance,help
+can you tell me how to operate this,help
+I'm not sure what to ask you,help
+please help me use the system,help
+how do I interact with Neurova AI,help
+add a note saying buy groceries,save_note
+save this idea in my notes,save_note
+write down that the meeting went well,save_note
+keep a note about my project,save_note
+store this thought for me,save_note
+put this sentence in my notes,save_note
+I want to record an idea,save_note
+please write this in my notebook,save_note
+keep this detail for later,save_note
+make a note that my class starts at nine,save_note
+save the information I just shared,save_note
+add this to my personal notes,save_note
+record this idea for me,save_note
+I want to keep a written record,save_note
+note down my project idea,save_note
+save these details as a note,save_note
+write a note about today's lecture,save_note
+keep my shopping list as a note,save_note
+please record this thought,save_note
+store this information in my notes,save_note
+remind me to attend class at 10 am,set_reminder
+set a reminder for my doctor's appointment,set_reminder
+notify me to finish my homework tonight,set_reminder
+remind me to send the email tomorrow,set_reminder
+I need an alert before my exam,set_reminder
+schedule a reminder to pay rent,set_reminder
+please alert me in thirty minutes,set_reminder
+remind me to call my friend this evening,set_reminder
+set a reminder for next Friday,set_reminder
+notify me when it's time to study,set_reminder
+help me remember my assignment deadline,set_reminder
+remind me to water the plants every morning,set_reminder
+create an alert for my online meeting,set_reminder
+I want a reminder at 7 pm,set_reminder
+please remind me about the project submission,set_reminder
+set a notification for my class tomorrow,set_reminder
+remind me to take my lunch break,set_reminder
+alert me tomorrow to buy medicine,set_reminder
+schedule an alert for the morning,set_reminder
+don't let me forget to attend the workshop,set_reminder
+thanks for being so helpful,thanks
+I am really grateful,thanks
+that was very kind of you,thanks
+thank you for your assistance,thanks
+I appreciate the explanation,thanks
+you made that easy, thanks,thanks
+many thanks for the support,thanks
+that answered my question, thank you,thanks
+I'm grateful for your help,thanks
+thanks for guiding me,thanks
+you've been a great help,thanks
+I appreciate the quick response,thanks
+thank you, that makes sense,thanks
+that's exactly what I needed, thanks,thanks
+thanks for taking the time,thanks
+I appreciate your patience,thanks
+wonderful, thank you,thanks
+thanks for clearing that up,thanks
+you were very helpful today,thanks
+thank you for explaining everything,thanks

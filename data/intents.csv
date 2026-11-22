@@ -1,0 +1,1064 @@
+text,intent
+hello,greeting
+hi,greeting
+hello assistant,greeting
+good morning,greeting
+good night,greeting
+hey there,greeting
+hey,greeting
+good afternoon,greeting
+good evening,greeting
+hello there,greeting
+how are you,greeting
+bye,exit
+goodbye,exit
+see you later,exit
+stop the assistant,exit
+talk to you later,exit
+close the assistant,exit
+quit,exit
+thank you,thanks
+thankyou,thanks
+appreciated,thanks
+thanks a lot,thanks
+I appreciate your help,thanks
+thank you so much,thanks
+thanks for your help,thanks
+that's helpful,thanks
+what can you do,help
+can you help me,help
+I need some assistance,help
+help me with this problem,help
+show me your features,help
+help me please,help
+what features do you have,help
+how can you help me,help
+what are your capabilities,help
+save a note,save_note
+remember that I have a meeting,save_note
+write this down for me,save_note
+save my idea,save_note
+please save this note,save_note
+note this down,save_note
+remember this for me,save_note
+save this information,save_note
+set a reminder,set_reminder
+remind me to study tomorrow,set_reminder
+remind me about my meeting,set_reminder
+remind me tomorrow,set_reminder
+remind me later,set_reminder
+create a reminder,set_reminder
+what is machine learning,ask_question
+explain artificial intelligence,ask_question
+tell me about deep learning,ask_question
+what is artificial intelligence,ask_question
+explain machine learning,ask_question
+what is deep learning,ask_question
+
+
+Cancel my subscription, please.
+cancellation
+I forgot my password.
+password_reset
+Can you help me with my account?
+account_help
+I want to return my order.
+return_request
+What time do you open?
+business_hours
+I forgot my password.
+password_reset
+Where is my package?
+order_status
+I forgot my password.
+password_reset
+Cancel my subscription, please.
+cancellation
+Cancel my subscription, please.
+cancellation
+Where is my package?
+order_status
+Where is my package?
+order_status
+How can I update my payment method?
+payment_update
+How can I update my payment method?
+payment_update
+Tell me more about your services.
+service_info
+Cancel my subscription, please.
+cancellation
+How can I update my payment method?
+payment_update
+I need technical support.
+technical_support
+What are your working hours?
+business_hours
+What are your working hours?
+business_hours
+What time do you open?
+business_hours
+I need technical support.
+technical_support
+I want to return my order.
+return_request
+What are your working hours?
+business_hours
+I forgot my password.
+password_reset
+I want to return my order.
+return_request
+What are your working hours?
+business_hours
+How can I update my payment method?
+payment_update
+How can I update my payment method?
+payment_update
+Can you help me with my account?
+account_help
+What time do you open?
+business_hours
+What are your working hours?
+business_hours
+Cancel my subscription, please.
+cancellation
+I need technical support.
+technical_support
+How can I update my payment method?
+payment_update
+What time do you open?
+business_hours
+How can I update my payment method?
+payment_update
+I want to return my order.
+return_request
+Can you help me with my account?
+account_help
+Cancel my subscription, please.
+cancellation
+Can you help me with my account?
+account_help
+Tell me more about your services.
+service_info
+What are your working hours?
+business_hours
+Cancel my subscription, please.
+cancellation
+What time do you open?
+business_hours
+What are your working hours?
+business_hours
+How can I update my payment method?
+payment_update
+What are your working hours?
+business_hours
+Tell me more about your services.
+service_info
+What time do you open?
+business_hours
+I forgot my password.
+password_reset
+Tell me more about your services.
+service_info
+I need technical support.
+technical_support
+How can I update my payment method?
+payment_update
+How can I update my payment method?
+payment_update
+What are your working hours?
+business_hours
+How can I update my payment method?
+payment_update
+What time do you open?
+business_hours
+What time do you open?
+business_hours
+How can I update my payment method?
+payment_update
+Where is my package?
+order_status
+I need technical support.
+technical_support
+Cancel my subscription, please.
+cancellation
+What time do you open?
+business_hours
+Can you help me with my account?
+account_help
+How can I update my payment method?
+payment_update
+What time do you open?
+business_hours
+Tell me more about your services.
+service_info
+Tell me more about your services.
+service_info
+Where is my package?
+order_status
+Cancel my subscription, please.
+cancellation
+How can I update my payment method?
+payment_update
+I forgot my password.
+password_reset
+I need technical support.
+technical_support
+I forgot my password.
+password_reset
+I want to return my order.
+return_request
+Cancel my subscription, please.
+cancellation
+Tell me more about your services.
+service_info
+I forgot my password.
+password_reset
+How can I update my payment method?
+payment_update
+I want to return my order.
+return_request
+Tell me more about your services.
+service_info
+Cancel my subscription, please.
+cancellation
+What are your working hours?
+business_hours
+What time do you open?
+business_hours
+Tell me more about your services.
+service_info
+Where is my package?
+order_status
+I want to return my order.
+return_request
+Can you help me with my account?
+account_help
+Where is my package?
+order_status
+I want to return my order.
+return_request
+How can I update my payment method?
+payment_update
+Cancel my subscription, please.
+cancellation
+Where is my package?
+order_status
+I forgot my password.
+password_reset
+Where is my package?
+order_status
+Where is my package?
+order_status
+How can I update my payment method?
+payment_update
+I want to return my order.
+return_request
+I forgot my password.
+password_reset
+What time do you open?
+business_hours
+What are your working hours?
+business_hours
+What time do you open?
+business_hours
+Can you help me with my account?
+account_help
+I want to return my order.
+return_request
+What are your working hours?
+business_hours
+Cancel my subscription, please.
+cancellation
+How can I update my payment method?
+payment_update
+What time do you open?
+business_hours
+Tell me more about your services.
+service_info
+What time do you open?
+business_hours
+What time do you open?
+business_hours
+What time do you open?
+business_hours
+I forgot my password.
+password_reset
+I need technical support.
+technical_support
+I forgot my password.
+password_reset
+Where is my package?
+order_status
+I need technical support.
+technical_support
+Where is my package?
+order_status
+Cancel my subscription, please.
+cancellation
+What time do you open?
+business_hours
+What time do you open?
+business_hours
+What are your working hours?
+business_hours
+I want to return my order.
+return_request
+Cancel my subscription, please.
+cancellation
+Tell me more about your services.
+service_info
+Can you help me with my account?
+account_help
+How can I update my payment method?
+payment_update
+I want to return my order.
+return_request
+Where is my package?
+order_status
+I forgot my password.
+password_reset
+Can you help me with my account?
+account_help
+Cancel my subscription, please.
+cancellation
+I need technical support.
+technical_support
+Cancel my subscription, please.
+cancellation
+I want to return my order.
+return_request
+Where is my package?
+order_status
+Can you help me with my account?
+account_help
+I need technical support.
+technical_support
+Cancel my subscription, please.
+cancellation
+I forgot my password.
+password_reset
+Can you help me with my account?
+account_help
+How can I update my payment method?
+payment_update
+Cancel my subscription, please.
+cancellation
+What time do you open?
+business_hours
+I need technical support.
+technical_support
+I need technical support.
+technical_support
+Tell me more about your services.
+service_info
+How can I update my payment method?
+payment_update
+What are your working hours?
+business_hours
+Tell me more about your services.
+service_info
+Cancel my subscription, please.
+cancellation
+I forgot my password.
+password_reset
+What are your working hours?
+business_hours
+What time do you open?
+business_hours
+What are your working hours?
+business_hours
+Where is my package?
+order_status
+I want to return my order.
+return_request
+I need technical support.
+technical_support
+What time do you open?
+business_hours
+What are your working hours?
+business_hours
+I need technical support.
+technical_support
+Cancel my subscription, please.
+cancellation
+Where is my package?
+order_status
+What time do you open?
+business_hours
+How can I update my payment method?
+payment_update
+I forgot my password.
+password_reset
+I need technical support.
+technical_support
+Where is my package?
+order_status
+I forgot my password.
+password_reset
+I need technical support.
+technical_support
+What time do you open?
+business_hours
+Cancel my subscription, please.
+cancellation
+I forgot my password.
+password_reset
+I forgot my password.
+password_reset
+I forgot my password.
+password_reset
+What time do you open?
+business_hours
+Tell me more about your services.
+service_info
+I want to return my order.
+return_request
+I forgot my password.
+password_reset
+What are your working hours?
+business_hours
+Cancel my subscription, please.
+cancellation
+What time do you open?
+business_hours
+Tell me more about your services.
+service_info
+I want to return my order.
+return_request
+Tell me more about your services.
+service_info
+Where is my package?
+order_status
+What are your working hours?
+business_hours
+Can you help me with my account?
+account_help
+How can I update my payment method?
+payment_update
+What time do you open?
+business_hours
+What time do you open?
+business_hours
+Tell me more about your services.
+service_info
+How can I update my payment method?
+payment_update
+I need technical support.
+technical_support
+Cancel my subscription, please.
+cancellation
+Can you help me with my account?
+account_help
+What are your working hours?
+business_hours
+Where is my package?
+order_status
+Cancel my subscription, please.
+cancellation
+Cancel my subscription, please.
+cancellation
+How can I update my payment method?
+payment_update
+Cancel my subscription, please.
+cancellation
+I forgot my password.
+password_reset
+What time do you open?
+business_hours
+What time do you open?
+business_hours
+Where is my package?
+order_status
+Cancel my subscription, please.
+cancellation
+What are your working hours?
+business_hours
+I forgot my password.
+password_reset
+Tell me more about your services.
+service_info
+Can you help me with my account?
+account_help
+What time do you open?
+business_hours
+I need technical support.
+technical_support
+How can I update my payment method?
+payment_update
+How can I update my payment method?
+payment_update
+Where is my package?
+order_status
+Where is my package?
+order_status
+Where is my package?
+order_status
+How can I update my payment method?
+payment_update
+What time do you open?
+business_hours
+Cancel my subscription, please.
+cancellation
+I need technical support.
+technical_support
+Cancel my subscription, please.
+cancellation
+How can I update my payment method?
+payment_update
+What time do you open?
+business_hours
+I forgot my password.
+password_reset
+What time do you open?
+business_hours
+What time do you open?
+business_hours
+What are your working hours?
+business_hours
+Cancel my subscription, please.
+cancellation
+I need technical support.
+technical_support
+Where is my package?
+order_status
+I want to return my order.
+return_request
+How can I update my payment method?
+payment_update
+What are your working hours?
+business_hours
+Tell me more about your services.
+service_info
+Cancel my subscription, please.
+cancellation
+I need technical support.
+technical_support
+What are your working hours?
+business_hours
+I want to return my order.
+return_request
+I need technical support.
+technical_support
+What are your working hours?
+business_hours
+I need technical support.
+technical_support
+Tell me more about your services.
+service_info
+Tell me more about your services.
+service_info
+Where is my package?
+order_status
+How can I update my payment method?
+payment_update
+How can I update my payment method?
+payment_update
+I want to return my order.
+return_request
+What are your working hours?
+business_hours
+How can I update my payment method?
+payment_update
+I forgot my password.
+password_reset
+Can you help me with my account?
+account_help
+Can you help me with my account?
+account_help
+What time do you open?
+business_hours
+What are your working hours?
+business_hours
+Can you help me with my account?
+account_help
+Tell me more about your services.
+service_info
+Cancel my subscription, please.
+cancellation
+Can you help me with my account?
+account_help
+What are your working hours?
+business_hours
+I need technical support.
+technical_support
+I need technical support.
+technical_support
+What are your working hours?
+business_hours
+How can I update my payment method?
+payment_update
+I need technical support.
+technical_support
+How can I update my payment method?
+payment_update
+I need technical support.
+technical_support
+How can I update my payment method?
+payment_update
+What are your working hours?
+business_hours
+How can I update my payment method?
+payment_update
+Where is my package?
+order_status
+I need technical support.
+technical_support
+Where is my package?
+order_status
+How can I update my payment method?
+payment_update
+Where is my package?
+order_status
+Tell me more about your services.
+service_info
+Can you help me with my account?
+account_help
+Cancel my subscription, please.
+cancellation
+What are your working hours?
+business_hours
+I forgot my password.
+password_reset
+What are your working hours?
+business_hours
+Can you help me with my account?
+account_help
+Tell me more about your services.
+service_info
+What time do you open?
+business_hours
+I forgot my password.
+password_reset
+How can I update my payment method?
+payment_update
+Cancel my subscription, please.
+cancellation
+Tell me more about your services.
+service_info
+Where is my package?
+order_status
+Can you help me with my account?
+account_help
+Cancel my subscription, please.
+cancellation
+Can you help me with my account?
+account_help
+Tell me more about your services.
+service_info
+Where is my package?
+order_status
+Tell me more about your services.
+service_info
+How can I update my payment method?
+payment_update
+I need technical support.
+technical_support
+Can you help me with my account?
+account_help
+I forgot my password.
+password_reset
+Where is my package?
+order_status
+I want to return my order.
+return_request
+What time do you open?
+business_hours
+What are your working hours?
+business_hours
+What are your working hours?
+business_hours
+What are your working hours?
+business_hours
+Cancel my subscription, please.
+cancellation
+How can I update my payment method?
+payment_update
+Tell me more about your services.
+service_info
+I need technical support.
+technical_support
+Where is my package?
+order_status
+Can you help me with my account?
+account_help
+Where is my package?
+order_status
+What time do you open?
+business_hours
+I want to return my order.
+return_request
+Tell me more about your services.
+service_info
+I forgot my password.
+password_reset
+I want to return my order.
+return_request
+How can I update my payment method?
+payment_update
+I need technical support.
+technical_support
+Tell me more about your services.
+service_info
+I want to return my order.
+return_request
+What time do you open?
+business_hours
+What time do you open?
+business_hours
+Cancel my subscription, please.
+cancellation
+I forgot my password.
+password_reset
+What time do you open?
+business_hours
+What time do you open?
+business_hours
+Cancel my subscription, please.
+cancellation
+Tell me more about your services.
+service_info
+How can I update my payment method?
+payment_update
+Tell me more about your services.
+service_info
+Where is my package?
+order_status
+I forgot my password.
+password_reset
+What are your working hours?
+business_hours
+I need technical support.
+technical_support
+How can I update my payment method?
+payment_update
+Where is my package?
+order_status
+How can I update my payment method?
+payment_update
+How can I update my payment method?
+payment_update
+Can you help me with my account?
+account_help
+How can I update my payment method?
+payment_update
+I forgot my password.
+password_reset
+What time do you open?
+business_hours
+Can you help me with my account?
+account_help
+I want to return my order.
+return_request
+I forgot my password.
+password_reset
+Cancel my subscription, please.
+cancellation
+I want to return my order.
+return_request
+Where is my package?
+order_status
+How can I update my payment method?
+payment_update
+Where is my package?
+order_status
+How can I update my payment method?
+payment_update
+I need technical support.
+technical_support
+I want to return my order.
+return_request
+How can I update my payment method?
+payment_update
+What are your working hours?
+business_hours
+How can I update my payment method?
+payment_update
+What time do you open?
+business_hours
+I want to return my order.
+return_request
+How can I update my payment method?
+payment_update
+Tell me more about your services.
+service_info
+I forgot my password.
+password_reset
+I forgot my password.
+password_reset
+I want to return my order.
+return_request
+Can you help me with my account?
+account_help
+I forgot my password.
+password_reset
+Cancel my subscription, please.
+cancellation
+I want to return my order.
+return_request
+I want to return my order.
+return_request
+Tell me more about your services.
+service_info
+I forgot my password.
+password_reset
+Can you help me with my account?
+account_help
+Tell me more about your services.
+service_info
+Can you help me with my account?
+account_help
+How can I update my payment method?
+payment_update
+What are your working hours?
+business_hours
+What time do you open?
+business_hours
+Where is my package?
+order_status
+Tell me more about your services.
+service_info
+I forgot my password.
+password_reset
+Can you help me with my account?
+account_help
+I want to return my order.
+return_request
+I want to return my order.
+return_request
+I want to return my order.
+return_request
+What are your working hours?
+business_hours
+How can I update my payment method?
+payment_update
+I need technical support.
+technical_support
+How can I update my payment method?
+payment_update
+What time do you open?
+business_hours
+Tell me more about your services.
+service_info
+Tell me more about your services.
+service_info
+Where is my package?
+order_status
+What are your working hours?
+business_hours
+Tell me more about your services.
+service_info
+What are your working hours?
+business_hours
+What are your working hours?
+business_hours
+What are your working hours?
+business_hours
+I want to return my order.
+return_request
+I want to return my order.
+return_request
+Where is my package?
+order_status
+Can you help me with my account?
+account_help
+How can I update my payment method?
+payment_update
+Where is my package?
+order_status
+I need technical support.
+technical_support
+Can you help me with my account?
+account_help
+What time do you open?
+business_hours
+Can you help me with my account?
+account_help
+Where is my package?
+order_status
+What are your working hours?
+business_hours
+Tell me more about your services.
+service_info
+I want to return my order.
+return_request
+I need technical support.
+technical_support
+Where is my package?
+order_status
+What time do you open?
+business_hours
+What time do you open?
+business_hours
+What time do you open?
+business_hours
+Where is my package?
+order_status
+I forgot my password.
+password_reset
+Cancel my subscription, please.
+cancellation
+Cancel my subscription, please.
+cancellation
+Cancel my subscription, please.
+cancellation
+I need technical support.
+technical_support
+Cancel my subscription, please.
+cancellation
+What time do you open?
+business_hours
+I want to return my order.
+return_request
+Cancel my subscription, please.
+cancellation
+What time do you open?
+business_hours
+How can I update my payment method?
+payment_update
+How can I update my payment method?
+payment_update
+Where is my package?
+order_status
+Cancel my subscription, please.
+cancellation
+I forgot my password.
+password_reset
+Tell me more about your services.
+service_info
+Can you help me with my account?
+account_help
+How can I update my payment method?
+payment_update
+I need technical support.
+technical_support
+I need technical support.
+technical_support
+I want to return my order.
+return_request
+How can I update my payment method?
+payment_update
+What time do you open?
+business_hours
+What are your working hours?
+business_hours
+I forgot my password.
+password_reset
+Where is my package?
+order_status
+What are your working hours?
+business_hours
+Can you help me with my account?
+account_help
+I want to return my order.
+return_request
+Tell me more about your services.
+service_info
+I need technical support.
+technical_support
+Tell me more about your services.
+service_info
+How can I update my payment method?
+payment_update
+What are your working hours?
+business_hours
+I want to return my order.
+return_request
+I forgot my password.
+password_reset
+What time do you open?
+business_hours
+Tell me more about your services.
+service_info
+Where is my package?
+order_status
+Where is my package?
+order_status
+What are your working hours?
+business_hours
+Tell me more about your services.
+service_info
+I need technical support.
+technical_support
+I want to return my order.
+return_request
+How can I update my payment method?
+payment_update
+Where is my package?
+order_status
+How can I update my payment method?
+payment_update
+Where is my package?
+order_status
+How can I update my payment method?
+payment_update
+How can I update my payment method?
+payment_update
+I want to return my order.
+return_request
+Where is my package?
+order_status
+I need technical support.
+technical_support
+I want to return my order.
+return_request
+I forgot my password.
+password_reset
+Cancel my subscription, please.
+cancellation
+Tell me more about your services.
+service_info
+I want to return my order.
+return_request
+I forgot my password.
+password_reset
+What time do you open?
+business_hours
+Tell me more about your services.
+service_info
+Tell me more about your services.
+service_info
+Cancel my subscription, please.
+cancellation
+Where is my package?
+order_status
+What are your working hours?
+business_hours
+Cancel my subscription, please.
+cancellation
+Can you help me with my account?
+account_help
+I need technical support.
+technical_support
+Cancel my subscription, please.
+cancellation
+Cancel my subscription, please.
+cancellation
+I forgot my password.
+password_reset
+Can you help me with my account?
+account_help
+How can I update my payment method?
+payment_update
+Can you help me with my account?
+account_help
+What are your working hours?
+business_hours
+Cancel my subscription, please.
+cancellation
+I forgot my password.
+password_reset
+Can you help me with my account?
+account_help
+Cancel my subscription, please.
+cancellation
+I need technical support.
+technical_support
+Where is my package?
+order_status
+Where is my package?
+order_status
+How can I update my payment method?
+payment_update
+Where is my package?
+order_status
